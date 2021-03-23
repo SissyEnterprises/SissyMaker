@@ -33,4 +33,4 @@ Here are some things I would love to afford for the project:
 We love engaging with our community and happily merge your pull requests once approved!
 
 ## License
-Read the full license agreement in the LICENSE file.
+Read the full license agreement in the [LICENSE](LICENSE) file.
