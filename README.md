@@ -14,6 +14,14 @@ There are a lot of ideas and a lot of potential for this project. Here's some of
   2. Videos
   3. Images
   4. Hypnosis
+  5. Dating
+  6. Events
+  7. Tools
+
+My current idea for the setup is something like this:
+  - An Ionic or Cordova base
+  - A static Vue based site run through one of the above
+  - 
 
 ## Financing
 The project currently has no planned budget. We would love to set up a Patreon, maybe a Kickstarter, and a PayPal account for accepting donations and sponsorship, but for now there is no money in the project.
