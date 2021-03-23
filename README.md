@@ -1,6 +1,6 @@
 <div align="center">
   
-# SissyMaker
+# Sissy Maker
 A fun project for turning people into sissies 💘
 </div>
 
