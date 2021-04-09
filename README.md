@@ -4,7 +4,7 @@
 # Sissy Maker
 A fun project for turning people into sissies 💘
 
-<img src="https://img.shields.io/reddit/subreddit-subscribers/SissyEnterprises?style=for-the-badge">
+<a href="https://www.reddit.com/r/SissyEnterprises"><img src="https://img.shields.io/reddit/subreddit-subscribers/SissyEnterprises?style=for-the-badge"></a>
 </div>
 
 ## Disclaimer
