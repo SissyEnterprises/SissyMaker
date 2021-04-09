@@ -1,8 +1,10 @@
 <div align="center">
 <img src="banner.png" width="500">
-  
+     
 # Sissy Maker
 A fun project for turning people into sissies 💘
+
+<img src="https://img.shields.io/reddit/subreddit-subscribers/SissyEnterprises?style=for-the-badge">
 </div>
 
 ## Disclaimer
